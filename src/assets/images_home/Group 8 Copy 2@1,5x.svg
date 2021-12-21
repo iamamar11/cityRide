@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="64px" viewBox="0 0 60 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D6C5CC7C-2F60-4AF8-BF7B-EBC5D8F54AF8@1,5x</title>
+    <defs>
+        <filter x="-116.7%" y="-233.3%" width="333.3%" height="566.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-311.000000, -273.000000)">
+            <g id="Group-8-Copy-2" transform="translate(326.000000, 273.000000)">
+                <ellipse id="Oval" fill="#1F1F1F" filter="url(#filter-1)" cx="15" cy="38.5" rx="9" ry="4.5"></ellipse>
+                <g id="Group-7" fill="#1F1F1F">
+                    <circle id="Oval" cx="14.5" cy="14.5" r="14.5"></circle>
+                    <path d="M6.42494965,20.013504 L13.1984863,38.6803894 C13.8396063,39.4027881 14.9449566,39.4686776 15.6673553,38.8275576 C15.7171287,38.7833843 15.7643402,38.7364061 15.8087594,38.686852 L15.8145523,38.6803894 L15.8145523,38.6803894 L21.7086868,20.013504 L6.42494965,20.013504 Z" id="Path"></path>
+                </g>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#52BE1E" cx="14.5" cy="14.5" r="5.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
