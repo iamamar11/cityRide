@@ -76,9 +76,11 @@ import com.android.build.OutputFile
  *   extraPackagerArgs: []
  * ]
  */
-
+task wrapper(type: Wrapper) { gradleVersion = '7.0' }
 project.ext.react = [
-    enableHermes: false,  // clean and rebuild if changing
+    // enableHermes: false,  // clean and rebuild if changing
+
+    enableHermes: true,  // clean and rebuild if changing
 ]
 
 apply from: "../../node_modules/react-native/react.gradle"
